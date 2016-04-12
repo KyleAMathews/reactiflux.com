@@ -1,0 +1,32 @@
+pre {
+  background: whitesmoke;
+  padding: 1.5rem;
+}
+
+.center {
+  display: block;
+  text-align: center;
+}
+
+.center-logo {
+  display: block;
+  height: 250px;
+  text-align: center;
+}
+
+a.big-join-discord-link {
+  background: #738bd7;
+  border-radius: 0.75em;
+  display: block;
+  letter-spacing: 3px;
+  padding: 27px;
+  text-align: center;
+  text-decoration: none;
+}
+a.big-join-discord-link:hover {
+  background: #3d61d7;
+}
+a.big-join-discord-link h1 {
+  color: white;
+  margin: 0;
+}
